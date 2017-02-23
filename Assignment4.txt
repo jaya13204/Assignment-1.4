@@ -1,0 +1,48 @@
+1.Characteristics of BigData:
+ 
+Bigdata refers to dealing with large volume of data which cannot be processed using RDBMS.There are 5v's
+ which forms the characteristics of bigdata.
+
+Volume:Volume refers to amount or quantity of data.It denote the size of data.Size plays a vital role in
+determining value out of data.Although depending upon the volume only the data can be considered 
+as bigdata or not.
+
+Variety:Vareity refers to type and nature of data.It can be structured,unstructured or semi-structured.
+Previously data will come in the form of spreadsheets and databases and now data comes in the form of
+videos,photos,PDFs,emails etc..,
+
+Velocity:Velocity refers to speed of data processing.It deals with how fast the data is generated and processed
+to meet the demands and to determine real potential in the data.
+
+Veracity:Veracity refers to noise and abnormality in data.It analyzes whether the data is being stored and 
+mined meaningfully.It is being said that Veracity analysis is the biggest challenge when compared to others.
+
+Value:Value includes large volume and variety of data that is easy to access and delivers 
+quality analytics.Value is the most important characteristics of bigdata.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2.Possible solutions to handle bigdata:
+
+The possible solutions to handle bigdata are scale up and scale out.
+*Scaleup:Scale up increases the configuration of single system.In scale up resources are added
+to single system.It is costly,complex and time consuming one.
+
+*Scaleout:In scale out multiple machines are used and loads of storage are distributed among them.
+Its is advisable to use scale out because it is more reliable than scale up.
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+3.Difference between scaling up and scaling down:
+
+*Scalingup:Scaling up increases the configuration of single system.In scale up resources are added
+to single system.It is costly,complex and time consuming one.
+
+*Scalingout:In scaling out multiple machines are used and loads of storage are distributed among them.
+Its is advisable to use scale out because it is more reliable than scale up.
+
+
+
+
+ 
